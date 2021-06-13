@@ -1,7 +1,6 @@
 C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\bin\Debug\netstandard2.0\MVVM.LTE.deps.json
 C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\bin\Debug\netstandard2.0\MVVM.LTE.dll
 C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\bin\Debug\netstandard2.0\MVVM.LTE.pdb
-C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.csprojAssemblyReference.cache
 C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.csproj.CoreCompileInputs.cache
 C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.AssemblyInfoInputs.cache
 C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.AssemblyInfo.cs

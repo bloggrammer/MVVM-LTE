@@ -6,3 +6,4 @@ C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.A
 C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.AssemblyInfo.cs
 C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.dll
 C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.pdb
+C:\xamp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.csprojAssemblyReference.cache

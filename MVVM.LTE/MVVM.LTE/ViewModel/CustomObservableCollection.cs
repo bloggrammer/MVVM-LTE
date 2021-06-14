@@ -8,6 +8,7 @@ namespace MVVM.LTE.ViewModel
     {
         public CustomObservableCollection(IEnumerable<T> collection):base(collection) {  }
         public CustomObservableCollection(List<T> list) :base(list) {  }
+        public CustomObservableCollection() :base() {  }
         public void Refresh(T item)
         {
             var index = IndexOf(item);

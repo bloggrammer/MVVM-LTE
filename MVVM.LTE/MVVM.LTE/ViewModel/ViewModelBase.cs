@@ -5,6 +5,9 @@ using System.Runtime.CompilerServices;
 
 namespace MVVM.LTE.ViewModel
 {
+    /// <summary>
+    /// View model base
+    /// </summary>
     public abstract class ViewModelBase: INotifyPropertyChanged
     {
         protected virtual void RaisePropertyChanged([CallerMemberName] string propName = null)

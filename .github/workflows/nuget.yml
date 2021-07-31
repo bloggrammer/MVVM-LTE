@@ -6,8 +6,8 @@ on:
     - 'v*'
 
 env:
-  PROJECT_PATH: 'MVVM.LTE/MVVM.LTE.csproj'
-  PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
+  PROJECT_PATH: 'MVVM.LTE/MVVM.LTE/MVVM.LTE.csproj'
+  PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}/output/
   NUGET_SOURCE_URL: ''https://api.nuget.org/v3/index.json''
 
 jobs:

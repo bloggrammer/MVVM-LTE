@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xamp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\MVVM.LTE.csproj": {}
+    "C:\\xampp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\MVVM.LTE.csproj": {}
   },
   "projects": {
-    "C:\\xamp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\MVVM.LTE.csproj": {
+    "C:\\xampp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\MVVM.LTE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xamp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\MVVM.LTE.csproj",
+        "projectUniqueName": "C:\\xampp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\MVVM.LTE.csproj",
         "projectName": "MVVM.LTE",
-        "projectPath": "C:\\xamp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\MVVM.LTE.csproj",
+        "projectPath": "C:\\xampp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\MVVM.LTE.csproj",
         "packagesPath": "C:\\Users\\john.ansa\\.nuget\\packages\\",
-        "outputPath": "C:\\xamp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\obj\\",
+        "outputPath": "C:\\xampp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

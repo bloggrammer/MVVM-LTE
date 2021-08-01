@@ -1,7 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>MVVM.LTE</PackageId>
+    <Authors>John Ansa</Authors>
+    <Company>Bloggrammer.com</Company>
+    <Description>MVVM.LTE is a lightweight .NET MVVM library for building loosely coupled, maintainable, and testable MVVM applications.</Description>
+    <PackageTags>mvvm wpf C# prism ioc</PackageTags>
+    <PackageProjectUrl>https://github.com/Blogrammer/MVVM-LTE/blob/main/README.md</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Blogrammer/MVVM-LTE</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
 
 </Project>

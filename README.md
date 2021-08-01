@@ -1,7 +1,7 @@
 # MVVM-LTE
-MVVM LTE is a lightweight .Net Standard library for MVVM. This library provides basic classes for developing your application in MVVM architecture.
+MVVM LTE is a lightweight .NET MVVM library for building loosely coupled, maintainable, and testable MVVM applications in C#. This library provides basic classes for developing your application in MVVM architecture.
 
-You can download the latest MVVM LTE package from [here](https://www.nuget.org/packages "MVVM LTE download").
+You can download the latest MVVM LTE package from [here](https://www.nuget.org/packages/MVVM.LTE/ "MVVM LTE download").
 
 MVVM LTE comes with one DLL with no dependencies.
 

@@ -11,8 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MVVM.LTE")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Bloggrammer.com")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("MVVM.LTE is a lightweight .NET MVVM library for building loosely coupled, maintai" +
+    "nable, and testable MVVM applications.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVVM.LTE")]

@@ -1,3 +1,7 @@
+
+[![NuGet](https://img.shields.io/nuget/v/MVVM.LTE)](https://www.nuget.org/packages/MVVM.LTE/)
+
+
 # MVVM-LTE
 MVVM LTE is a lightweight .NET MVVM library for building loosely coupled, maintainable, and testable MVVM applications in C#. This library provides basic classes for developing your application in MVVM architecture.
 

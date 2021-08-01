@@ -15,7 +15,6 @@
     <Copyright>Copyright © 2021 John Ansa</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>

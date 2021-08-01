@@ -1,5 +1,5 @@
 
-[![NuGet](https://img.shields.io/nuget/v/MVVM.LTE)](https://www.nuget.org/packages/MVVM.LTE/) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Blogrammer/MVVM-LTE/Deploy%20to%20NuGet?style=flat-square)
+[![NuGet](https://img.shields.io/nuget/v/MVVM.LTE)](https://www.nuget.org/packages/MVVM.LTE/) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Blogrammer/MVVM-LTE/Deploy%20to%20NuGet?logo=github) ![GitHub](https://img.shields.io/github/license/Blogrammer/MVVM-LTE?logo=github)
 
 
 # MVVM-LTE

@@ -17,6 +17,7 @@ namespace MVVM.LTE.SimpleEvents
             ActionCompleted?.Invoke();
         }
 
+        protected virtual void OnActionFailed() { }
         public void StartAction(Action action)
         {
             OnProcessCompleted();

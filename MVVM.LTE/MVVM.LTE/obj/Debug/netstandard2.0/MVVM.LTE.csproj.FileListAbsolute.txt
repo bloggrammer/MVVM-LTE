@@ -16,3 +16,13 @@ C:\xampp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.
 C:\xampp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.AssemblyInfo.cs
 C:\xampp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.dll
 C:\xampp\locale\gh\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.pdb
+C:\Users\Mike\Documents\GitHub\MVVM-LTE\MVVM.LTE\MVVM.LTE\bin\Debug\netstandard2.0\MVVM.LTE.deps.json
+C:\Users\Mike\Documents\GitHub\MVVM-LTE\MVVM.LTE\MVVM.LTE\bin\Debug\netstandard2.0\MVVM.LTE.dll
+C:\Users\Mike\Documents\GitHub\MVVM-LTE\MVVM.LTE\MVVM.LTE\bin\Debug\netstandard2.0\MVVM.LTE.pdb
+C:\Users\Mike\Documents\GitHub\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.csproj.AssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.dll
+C:\Users\Mike\Documents\GitHub\MVVM-LTE\MVVM.LTE\MVVM.LTE\obj\Debug\netstandard2.0\MVVM.LTE.pdb

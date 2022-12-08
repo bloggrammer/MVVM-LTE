@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gSxq6SZjVfdeou+CXO0fL8V6hy+ZYRDWa0w5CudgZ4ajUD0GRC1ds4YFCiMDWrEuuVhQkaHQQAEaJ6cRfAw0PA==",
+  "dgSpecHash": "FbnuT1TAVhWG9+/WOnAwuWp4QmsxwEyA4/IiI9vTZzIKrNhZ6FzqgBlGMFcLpA+Z/VuNuGxVWZ7/ZjBCWGqG/w==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\locale\\gh\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\MVVM.LTE.csproj",
+  "projectFilePath": "C:\\Users\\Mike\\Documents\\GitHub\\MVVM-LTE\\MVVM.LTE\\MVVM.LTE\\MVVM.LTE.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\john.ansa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\john.ansa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Mike\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
